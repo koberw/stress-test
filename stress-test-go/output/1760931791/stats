@@ -1,0 +1,12 @@
+-------------- 压测统计报告 ---------------
+[test id]1760931791
+[test start]2025-10-20 11:43:11
+[test end]2025-10-20 11:43:21
+[test duration(s)]10.8711795
+[total requests]299
+[success num]299
+[success rate(%)]100.00%
+[cost min(ms)]621
+[cost max(ms)]2821
+[cost avg(ms)]857
+[cost P99(ms)]2280
